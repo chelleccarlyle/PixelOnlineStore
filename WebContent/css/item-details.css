@@ -1,0 +1,32 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  font: 400 15px/1.8 "Lato", sans-serif;
+  color: #777;
+}
+
+.item-price {
+	font-size: 50px;
+    line-height: 50px;
+    font-weight: bold;
+    color: #49494a;
+    font: "Lato", sans-serif;
+    margin-bottom:15px;
+}
+
+.item-details {
+	/* Keeps vertically centered */
+ 	margin-top: 50px;
+}
+
+.item-detail {
+	margin-bottom: 25px;
+}
+
+.item-name {
+	margin-bottom: 50px;
+}
+
+.item-description {
+	 margin-top: 30px; 
+}
